@@ -30,3 +30,5 @@ konu açınız.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+![Sun Resmi](kodluyoruzilkrepo/sun-sunlight.png)
